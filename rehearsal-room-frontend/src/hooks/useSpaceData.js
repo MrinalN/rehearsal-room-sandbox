@@ -40,7 +40,7 @@ const useSpaceData = () => {
 
   //hack to conditionally render Capoeria small photos, and photo placeholders for other properties
   let smallImgUrls;
-  if (space_id === 9) {
+  if (space_id == 9) {
     smallImgUrls = [
       "https://res.cloudinary.com/davik/image/upload/v1621288184/rehearsal_room/hzpcjjl0uujpcjuiaamy.png",
       "https://res.cloudinary.com/davik/image/upload/v1621288171/rehearsal_room/uohyg0dfvnfirqit5rsl.png",
