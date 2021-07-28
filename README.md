@@ -12,7 +12,7 @@
 
 # 💡 About
 
-<b>Rehearsal Room</b> is a space finding app that connects artists with hidden gem studios, multipurpose rooms, basements, etc. in their local area. Built in the spirit of resource sharing, artists and community memebers can also host spaces themselves.
+<b>Rehearsal Room</b> is a space finding app that connects artists with hidden gem studios, multipurpose rooms, basements, etc. in their local area. Built in the spirit of resource sharing, artists and community members can also host spaces themselves.
 
 This app was created in a little over a week by <a href="https://github.com/KateIsabelle">Kate Davis</a>, <a href="https://github.com/MrinalN">Adele Noronha</a>, and <a href="https://github.com/itspladd">Paul Ladd</a> for our final projects in the <a href="https://www.lighthouselabs.ca/en/web-development-bootcamp">Lighthouse Labs Web Development Bootcamp.</a>
 
@@ -60,7 +60,7 @@ This app was created in a little over a week by <a href="https://github.com/Kate
 
 ## Searching and Filtering
 *Browse, filter, and search a list of spaces in a specific city.*
-<details><summary>Click to view</summary>
+<details><summary>Click to preview</summary>
 
 ![](https://github.com/KateIsabelle/rehearsal-room/blob/master/docs/search_browse.gif)
 
@@ -68,7 +68,7 @@ This app was created in a little over a week by <a href="https://github.com/Kate
 
 ## Space Details
 *View details about each space, including photos, amenities, and an interactive Google map.*
-<details><summary>Click to view</summary>
+<details><summary>Click to preview</summary>
 
 ![](https://github.com/KateIsabelle/rehearsal-room/blob/master/docs/space_tour.gif)
 
@@ -76,7 +76,7 @@ This app was created in a little over a week by <a href="https://github.com/Kate
 
 ## Requesting a Booking
 *Like a space? Submit a booking request to the host through our form!*
-<details><summary>Click to view</summary>
+<details><summary>Click to preview</summary>
 
 ![](https://github.com/KateIsabelle/rehearsal-room/blob/master/docs/booking_req.gif)
 
@@ -84,7 +84,7 @@ This app was created in a little over a week by <a href="https://github.com/Kate
 
 ## User Dashboard
 *Hosts can view and manage their listed spaces and incoming booking requests from their dashboard.*
-<details><summary>Click to view</summary>
+<details><summary>Click to preview</summary>
 
 ![](https://github.com/KateIsabelle/rehearsal-room/blob/master/docs/host_bookings_management.gif)
 
@@ -92,7 +92,7 @@ This app was created in a little over a week by <a href="https://github.com/Kate
 
 ## Listing a Space
 *Got a room you want to make available? List it! Users will be able to find the space in the city listings once you're done.*
-<details><summary>Click to view</summary>
+<details><summary>Click to preview</summary>
 
 ![](https://github.com/KateIsabelle/rehearsal-room/blob/master/docs/host_new_space.gif)
 
