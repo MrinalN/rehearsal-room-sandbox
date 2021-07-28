@@ -23,7 +23,7 @@ app.use(logger('dev'));
 //set limit higher for uploading images:
 app.use(express.json({ limit: '50mb' }));
 app.use(express.urlencoded({ limit: '50mb', extended: false }));
-app.use(cookieParser());
+// app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 //here we call the function created, with a dbHelpers parameter
 app.use('/', indexRouter);
