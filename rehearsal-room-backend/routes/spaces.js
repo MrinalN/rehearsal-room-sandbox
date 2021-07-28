@@ -12,7 +12,7 @@ module.exports = ({
   deleteSpace,
   addMap,
 }) => {
-  // GET spaces
+  // GET spaces DEV ROUTE
   router.get('/', (req, res) => {
     getSpaces()
       .then(spaces => res.json(spaces))

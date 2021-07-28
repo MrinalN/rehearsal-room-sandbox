@@ -6,6 +6,7 @@ const {
 } = require('../helpers/dataHelpers');
 
 module.exports = ({
+    //extracting functions out of dbHelpers
     getUsers,
     getUserByEmail,
     addUser,
