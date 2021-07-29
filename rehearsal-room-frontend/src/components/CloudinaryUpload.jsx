@@ -10,8 +10,6 @@ export default function CloudinaryUpload() {
     user_id: 1,
     title: 'The most awesomest',
     description: 'Very awesome place',
-    // thumbnail_photo_url: url,
-    // cover_photo_url: url,
     country: 'Canada',
     street: '1895 Venables',
     city: 'Vancouver',
